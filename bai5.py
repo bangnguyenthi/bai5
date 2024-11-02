@@ -7,7 +7,7 @@ from sklearn.metrics import accuracy_score
 import matplotlib.pyplot as plt
 
 # Đường dẫn thư mục ảnh
-duong_dan_thu_muc = r'C:\Users\tranm\Downloads\Panoramic radiographs with periapical lesions Dataset\Panoramic radiographs with periapical lesions Dataset\Periapical Dataset\Periapical Lesions\Original JPG Images'
+duong_dan_thu_muc = 'bai5/imgage'
 
 # Đọc ảnh và nhãn từ thư mục
 def doc_anh_va_nhan(duong_dan):
